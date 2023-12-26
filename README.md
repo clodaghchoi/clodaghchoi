@@ -1,4 +1,3 @@
-- 👋 clodagh choi
 - 👀 work as Data Analyst / Data Scientist in MPS for 2 years +
 - 🌱 currently learning Bayesian Statistics and Spartial Statistics
 -   Skills : R, Python, Excel , Power BI, Tableau, SAS, SQL, SPSS
